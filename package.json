@@ -1,0 +1,19 @@
+{
+  "name": "i-elasticsearch",
+  "version": "1.0.0",
+  "description": "elastic search learning and practise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravip2900/i-elasticsearch.git"
+  },
+  "author": "Ravi P",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravip2900/i-elasticsearch/issues"
+  },
+  "homepage": "https://github.com/ravip2900/i-elasticsearch#readme"
+}
